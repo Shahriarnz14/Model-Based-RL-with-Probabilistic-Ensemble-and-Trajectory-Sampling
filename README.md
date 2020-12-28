@@ -8,7 +8,7 @@ Implementation of model-based RL: <br>
 <br>
 Experimental Results:
 ### (1) CEM with Ground-Truth Dynamics versus CEM with PETS
-<img src="https://i.ibb.co/KLzx91t/PETS.png" width="40%" height="40%"> <br>
+<img src="https://i.ibb.co/KLzx91t/PETS.png" width="45%" height="45%"> <br>
 
 
 ### (2) PETS Loss
